@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Wyzarzanie.dir/main.cpp.o  -o Wyzarzanie 
